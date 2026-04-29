@@ -1,0 +1,3 @@
+Username: mousa
+Current Path: /home/mousa/ap/AdvancedPrograming/task1/scripts
+File Count in ./data: 0
