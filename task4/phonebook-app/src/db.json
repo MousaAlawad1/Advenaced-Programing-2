@@ -14,6 +14,12 @@
       "id": "3",
       "name": "حسن خالد",
       "number": "0934567890"
+    },
+    {
+      "name": "Mousa",
+      "number": "0992558725",
+      "id": "N2P2FgakJL4"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
